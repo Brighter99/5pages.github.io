@@ -63,21 +63,17 @@ li{
 }
 .left
 {
-    width:700px;
+    width:200px;
     height: 100%;
     background-color:#874647;
 
 }
-.core
-{
-    width:2500px;
-    height: 100%;
-    background-color:#FEFEDF;
-}
 .right
 {
-    width: 100%;
+    position:absolute;
+    right:0px;
+    width: 200px;
     height: 100%;
     background-color: #874647;
-
+    
 }
