@@ -68,12 +68,12 @@ li{
     background-color:#874647;
 
 }
+
 .right
 {
-    position:absolute;
-    right:0px;
-    width: 200px;
+    width:200px;
     height: 100%;
     background-color: #874647;
-    
+    position: absolute;
+    right: 0px;
 }
